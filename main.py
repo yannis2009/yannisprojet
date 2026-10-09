@@ -7,5 +7,6 @@ class Contact:
     def __str__(self):
         return f"Name: {self.name}, Email: {self.email}, Phone: {self.phone}"
 
-Contact1=Contact("John Doe", "john.doe@example.com", "123-456-7890")
-print(Contact1)
+Contacts=[{"name": "John Doe", "email": "john.doe@example.com", "phone": "123-456-7890"},
+         {"name": "Jane Smith", "email": "jane.smith@example.com", "phone": "098-765-4321"},
+         {"name": "Alice Johnson", "email": "alice.johnson@example.com", "phone": "555-123-4567"}]
