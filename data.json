@@ -1,0 +1,8 @@
+{
+    "Heros": {
+        "nom": "Aldric",
+        "points_de_vie": 0,
+        "force": 8,
+        "mana": 40
+    }
+}
